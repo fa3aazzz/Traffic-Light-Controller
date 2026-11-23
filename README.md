@@ -14,7 +14,7 @@ The FSM steps through four states on the rising edge of `clock` (with an asynchr
 | `ST_RED` | `2'b11` | `ST_GREEN` | `1, 0, 0` |
 
 ### Synthesized State Diagram
-![State Machine Diagram](docs/state_machine_viewer.webp)
+![State Machine Diagram](docs/state_machine_viewer.png)
 
 ## Simulation Results
 
